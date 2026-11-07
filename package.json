@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-sajdah-waqf-locator",
+  "version": "1.0.0",
+  "description": "Tilawah Sajdah & Mandatory Waqf Boundary Detector (محدد مواضع سجدات التلاوة وعلامات الوقف اللازم)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
